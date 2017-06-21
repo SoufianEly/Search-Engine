@@ -11,6 +11,8 @@ This project meets the following criteria:
   6. Have a web interface!
   
   #Requierements : BeautifulSoup, Flask
+
+
 ############################# HOW TO :D ######################
 <p align="center">
   <img  src="https://github.com/SoufianEly/Search-Engine/blob/master/static/github/0.PNG">
