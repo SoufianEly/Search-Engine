@@ -1,0 +1,20 @@
+{% extends "bootstrap/base.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
+<!doctype html>
+<html class="no-js" lang="fr">
+<head>
+	<meta charset="utf-8">
+	<title>{% block title %}ENSIAS Search Engine{% endblock %}</title>
+</head>
+<body>
+	{% block content %}
+	<div class="container">
+	  	<!--<p><h1>Hello, Soufian</h1></p>-->
+			<center><p><img src="{{ url_for('static',filename="image.png")}}"></p></center>
+	  	<p>{{wtf.quick_form(form)}}</p>
+		
+  	</div>
+	{% endblock %}
+
+</body>
+</html>
