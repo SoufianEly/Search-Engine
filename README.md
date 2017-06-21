@@ -10,6 +10,5 @@ This project meets the following criteria:
   5. Display the result in an appropriate order of relevance
   6. Have a web interface!
   
-  #Requierements :
-    1) BeautifulSoup
-    2) Flask
+  #Requierements : BeautifulSoup, Flask
+![alt text](https://github.com/SoufianEly/Search-Engine/blob/master/static/4.png)
