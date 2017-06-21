@@ -13,20 +13,20 @@ This project meets the following criteria:
   #Requierements : BeautifulSoup, Flask
 ############################# HOW TO :D ######################
 <p align="center">
-  <img width="460" height="300" src="https://github.com/SoufianEly/Search-Engine/blob/master/static/github/0.PNG">
+  <img  src="https://github.com/SoufianEly/Search-Engine/blob/master/static/github/0.PNG">
 </p>
 
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/SoufianEly/Search-Engine/blob/master/static/github/1.PNG">
+  <img  src="https://github.com/SoufianEly/Search-Engine/blob/master/static/github/1.PNG">
 </p>
 
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/SoufianEly/Search-Engine/blob/master/static/github/2.PNG">
+  <img  src="https://github.com/SoufianEly/Search-Engine/blob/master/static/github/2.PNG">
 </p>
 
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/SoufianEly/Search-Engine/blob/master/static/github/3.PNG">
+  <img  src="https://github.com/SoufianEly/Search-Engine/blob/master/static/github/3.PNG">
 </p>
